@@ -1,0 +1,29 @@
+#sticky{
+    width: 60px;
+    height:60px;
+    border:solid red 4px;
+    position: sticky;
+    top:1px ;
+}
+#fixed{
+    width: 60px;
+    height: 60px;
+    border: dashed blue 4px;
+    position: fixed;
+    top: 0;
+    right: 20px;
+}
+#absolute{
+    width: 60px;
+    height: 60px;
+    border: dotted green 4px;
+    position: absolute;
+    left: 50px;
+}
+#relative{
+    width: 60px;
+    height: 60px;
+    border: double orange 4px;
+    position: relative;
+    left: 100px;
+}
